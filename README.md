@@ -7,7 +7,7 @@ Manual paper work is automated depending on the department numbers & registratio
 
 # My Project
 
-## MentOR
+## Mentor
 
-- **Dr.R.Kayalvizh**
+- **Dr.R.Kayalvizhi**
 - **kayalvir@srmist.edu.in**: 
