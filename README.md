@@ -14,6 +14,7 @@ Manual paper work is automated depending on the department numbers & registratio
 
 - ## Team Members
 
+- **B krishna Sai Mani kanta** - [@krishnasais](https://github.com/krishnasais) - Team Member
 - **G Bhargav Ram** - [@Gbhargavgurrammmmmm](https://github.com/Gbhargavgurrammmmmm) - Team Member
 - **Jaswanth Raptati** - [@jaswanthraptati](https://github.com/jaswanthraptati) - Team Member
 - **A Surya Siddardha** - [@suryasiddardha](https://github.com/suryasiddardha) - Team Member
