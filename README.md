@@ -11,3 +11,10 @@ Manual paper work is automated depending on the department numbers & registratio
 
 - **Dr.R.Kayalvizhi**
 - **kayalvir@srmist.edu.in**
+
+- ## Team Members
+
+- **G Bhargav Ram** - [@Gbhargavgurrammmmmm](https://github.com/Gbhargavgurrammmmmm) - Team Member
+- **Jaswanth Raptati** - [@jaswanthraptati](https://github.com/jaswanthraptati) - Team Member
+- **A Surya Siddardha** - [@suryasiddardha](https://github.com/suryasiddardha) - Team Member
+
