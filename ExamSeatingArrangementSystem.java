@@ -15,9 +15,9 @@ public class ExamSeatingArrangementSystem extends JFrame {
     }
 
     private void connectToDatabase() {
-        String url = "jdbc:mysql://localhost:3306/exam_system";
+        String url = "jdbc:mysql://localhost:3306/DB_Name"; //your DataBase Name
         String user = "root";
-        String password = "#Dhoni@7";
+        String password = "***"; //your MYSQL Password
 
         try {
             conn = DriverManager.getConnection(url, user, password);
