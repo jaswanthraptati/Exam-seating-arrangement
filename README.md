@@ -7,11 +7,6 @@ Manual paper work is automated depending on the department numbers & registratio
 
 # My Project
 
-## Mentor
-
-- **Dr.R.Kayalvizhi**
-- **kayalvir@srmist.edu.in**
-
 - ## Team Members
 
 - **B krishna Sai Mani kanta** - [@krishnasais](https://github.com/krishnasais) - Team Member
