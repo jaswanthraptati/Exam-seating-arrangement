@@ -13,7 +13,7 @@ public class ExamSeatingArrangementSystem extends JFrame {
         connectToDatabase();
         showLoginScreen();
     }
-
+    // Please change the DataBase 
     private void connectToDatabase() {
         String url = "jdbc:mysql://localhost:3306/DB_Name"; //your DataBase Name
         String user = "root";
