@@ -5,8 +5,6 @@ Examination hall allotment and seating arrangement is a web-based application. M
 Manual paper work is automated depending on the department numbers & registration numbers. In most of the institutes details of staff, non-teaching staff, student all are maintained manually, which is time consuming, prone to errors & it will add up as a stackof hardcopies.
 
 
-# My Project
-
 - ## Team Members
 
 - **B krishna Sai Mani kanta** - [@krishnasais](https://github.com/krishnasais) - Team Member
